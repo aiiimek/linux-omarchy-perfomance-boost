@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Boost Performance
+Comment=Force performance CPU governor
+Exec=/path/to/boost.sh
+Icon=/path/to/lightning.png
+Terminal=true
+Type=Application
+Categories=System;
